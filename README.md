@@ -1,1 +1,1 @@
-# Static-web-page
+This repository contains a collection of basic static web pages created using HTML (HyperText Markup Language).The main purpode is to demonstrate the foundational building blocks of web development using pure HTML.
